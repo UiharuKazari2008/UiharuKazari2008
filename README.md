@@ -10,19 +10,6 @@ Oui, I'm the lead developer and project manager for Academy City Research<br/>
 ## Paused or Inactive Projects
 <img width="320" src="https://user-images.githubusercontent.com/15165770/195558788-48c7bd2e-8184-40ee-8866-22de37a550f0.png" width="450"><br/>
 
-## Closed Projects
-<img src="https://github.com/UiharuKazari2008/UiharuKazari2008/assets/15165770/1dabebd1-5adf-405a-bad0-4122bae49ee6" width="450" /><br/>
-* SOS Keychip (IONA)
-* SOS Runtime Patcher (KIRISHIMA)
-* SOS Lifecycle Controller (Kongou)
-* SOS Haruna Network (HARUNA)
-* BlueSteel Platform
-* BlueSteel Bootloader
-* and other project that are developed to support it
-
-**I have halted my involvment with the BlueSteel and "Savior Of Song" Projects and involvement with the Missless community and team.**<br/>
-*The software and repositories are no longer avalible for development will no longer be in my name or named the same*<br/>
-
 <!--
 **UiharuKazari2008/UiharuKazari2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
