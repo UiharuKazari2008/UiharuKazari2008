@@ -10,7 +10,8 @@ Oui, I'm the lead developer and project manager for Academy City Research<br/>
 ## Paused or Inactive Projects
 <img width="320" src="https://user-images.githubusercontent.com/15165770/195558788-48c7bd2e-8184-40ee-8866-22de37a550f0.png" width="450"><br/>
 
-My newer projects and software have been moved to the BlueSteel Repo @ <a href="https://repo.bluesteel.737.jp.net/">https://repo.bluesteel.737.jp.net/</a>
+# New Home
+I have moved all my acive projects to [BlueSteel.737.jp.net](https://yozora.bluesteel.737.jp.net/)
 
 <b style="color: red;">I have no associateion with Missless do not contact me for support or anything related to that community</b>
 <!--
